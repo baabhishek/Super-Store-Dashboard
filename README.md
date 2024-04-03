@@ -7,3 +7,5 @@ This repository links to multiple sales, profit, and business above and below av
 After cleaning the data, my intention was to create a proper visualization to extract meaningful information and make strategic decisions.
 
 # The final Dashboard:
+<img width="1363" alt="Tableau Superstore dashboard" src="https://github.com/baabhishek/Super-Store-Dashboard/assets/165395155/22b97f9c-29b9-41b9-948e-2b8b7e664723">
+
